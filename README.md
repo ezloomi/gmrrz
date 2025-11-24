@@ -3,4 +3,4 @@
 
 My name is ezloom, I'm a reverse engineering/bug-hunter/software engineer.
 
-(Webpage)[https://ezloomdev.cc/]
+[Webpage](https://ezloomdev.cc/)
